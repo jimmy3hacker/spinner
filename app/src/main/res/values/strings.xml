@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Listview2</string>
+    <string name="phone">PHONE</string>
+    <string name="states">STATES</string>
+    <string name="submit_n_save">Submit N Save</string>
+    <string name="country">COUNTRY</string>
+    <string name="enter_phone_no">enter phone no</string>
+    <string name="textview">TextView</string>
+    <string name="sign_up_form">Sign Up Form</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">enter your name</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="Phone">Phone</string>
+    <string name="enter_your_phone_no">enter your phone no</string>
+    <string name="Country">Country</string>
+    <string name="States">States</string>
+    <string name="button">Button</string>
+    <string name="phone_no">Phone no</string>
+
+
+</resources>
